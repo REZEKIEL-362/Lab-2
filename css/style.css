@@ -68,5 +68,8 @@ input{
     font-style: normal; 
     font-weight: normal;
   } 
-  
+  #join{
+  background-color:gray;
+	border: 3px solid black;
+	display: inline-block;
 }
