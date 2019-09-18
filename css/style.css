@@ -27,3 +27,14 @@ h1 {
   font-weight: normal;
 	text-align: center;
 } 
+#join{
+  background-color:lightblue;
+	border: 3px solid black;
+}
+
+input{
+  resize: vertical;
+  display: inline-block;
+  padding-left: 0;
+  padding-right: 0;
+}
