@@ -1,0 +1,12 @@
+html{
+  font-size: 1.0em; /* 16px */
+  line-height: 1.25em; /* 20px*/
+  text-rendering: optimizeLegibility;
+}
+
+body{
+  font-family: 'Noto Sans', sans-serif;
+  color: black;
+  background-color:#DCDCDC;
+  padding-top:20px;
+}
